@@ -8,13 +8,14 @@ All Operation are done on EVE cli:
 <br />
 <ol>
 <li>Login into EVE root/yourpassword</li>
-<li>McHale</li>
 <li>Verify if your internet is ok ping www.google.com, if success do next:</li>
-<li>Install nano/vim editor</li>
-   <code>apt-get update</code><br />
-   <code>apt-get install vim nano</code>
-<li>Go to location:</li>
-   <code>cd /opt/unetlab/addons/iol/bin/</code>
+<li>Install nano/vim editor
+   <p><code>apt-get update</code></p>
+   <p><code>apt-get install vim nano</code></p>
+</li>   
+<li>Go to location:
+   <p><code>cd /opt/unetlab/addons/iol/bin/</code></p>
+</li>
 <li>Create iou keygen file
    <p><code>vim ioukeygen.py</code></p>
 </li>   
