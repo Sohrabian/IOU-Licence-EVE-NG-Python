@@ -41,5 +41,8 @@ All Operation are done on EVE cli:
 <li> fix permissions for new created script file:
    <p><code>chmod + x ioukeygen.py</code></p>
 </li>
+<li>Run this script
+   <p><code>./ioukeygen.py</code></p>
+</li>
 </ol>
 
