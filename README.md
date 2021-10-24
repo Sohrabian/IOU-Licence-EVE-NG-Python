@@ -7,13 +7,12 @@ stored under the /opt/unetlab/addons/iol/bin.
 All Operation are done on EVE cli: 
 <br />
 <ol>
-<li>Login into EVE root/yourpassword</li>
+<li style="line-height: 1.5">Login into EVE root/yourpassword</li>
 <li>McHale</li>
 <li>Verify if your internet is ok ping www.google.com, if success do next:</li>
 <li>Install nano/vim editor</li>
    <code>apt-get update</code><br />
    <code>apt-get install vim nano</code>
-   <br />
 <li>Go to location:</li>
    <code>cd /opt/unetlab/addons/iol/bin/</code>
 <li>Create iou keygen file</li>
