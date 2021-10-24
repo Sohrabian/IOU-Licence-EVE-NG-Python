@@ -44,6 +44,31 @@ All Operation are done on EVE cli:
 <li>Run this script
    <p><code>./ioukeygen.py</code></p>
 </li>
-   
+<li>Outpu will show you generated license:
+   <p><code>
+      *********************************************************************
+Cisco IOU License Generator - Kal 2011, python port of 2006 C version
+hostid=520d3428, hostname=T470P, ioukey=520d3567
+
+*********************************************************************
+Create the license file $HOME/.iourc with this command:
+ echo -e '[license]\nT470P = 413b2074a06a8f08;' | tee $HOME/.iourc 
+
+The command adds the following text to $HOME/.iourc:
+[license]
+T470P = 413b2074a06a8f08;
+
+*********************************************************************
+Disable the phone home feature with this command:
+ grep -q -F '127.0.0.1 xml.cisco.com' /etc/hosts || echo '127.0.0.1 xml.cisco.com' | sudo tee -a /etc/hosts
+
+The command adds the following text to /etc/hosts:
+127.0.0.1 xml.cisco.com
+
+*********************************************************************
+   </code></p>
+</li>
 </ol>
+
+
 
