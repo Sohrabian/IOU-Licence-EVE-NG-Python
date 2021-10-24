@@ -46,4 +46,4 @@ All Operation are done on EVE cli:
 </li>
    
 </ol>
-![Alt text](https://github.com/Sohrabian/IOU-Licence-EVE-NG-Python/blob/master/images/ioukeygen.png)
+![Alt text](IOU-Licence-EVE-NG-Python/blob/master/images/ioukeygen.png)
