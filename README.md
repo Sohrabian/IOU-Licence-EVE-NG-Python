@@ -7,7 +7,7 @@ stored under the /opt/unetlab/addons/iol/bin.
 All Operation are done on EVE cli: 
 <br />
 <ol>
-<li style="line-height: 1.5">Login into EVE root/yourpassword</li>
+<li>Login into EVE root/yourpassword</li>
 <li>McHale</li>
 <li>Verify if your internet is ok ping www.google.com, if success do next:</li>
 <li>Install nano/vim editor</li>
@@ -18,5 +18,9 @@ All Operation are done on EVE cli:
 <li>Create iou keygen file</li>
    <code>vim ioukeygen.py</code>
 <li>File opens and copy python script I pushed in this repo </li>
+<li>
+   item1
+   <p> item1-2 </p> 
+</li>
 </ol>
 
