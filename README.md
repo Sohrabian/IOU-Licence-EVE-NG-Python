@@ -20,5 +20,15 @@ All Operation are done on EVE cli:
    <p><code>vim ioukeygen.py</code></p>
 </li>   
 <li>File opens and copy python script I pushed in this repo </li>
+<li>Save keygen file with key combos:
+   <p>in nano: </p>
+   ctrl+o, answer yes, Enter key <br />
+   ctrl+x, for exit
+   <p>in vim:</p>
+   hit "i" on your keyboard, for Insert mode <br/>
+   ctrl + shift + v, for past <br/>
+   hit "ESC" on your keyboard, To exit VISUAL mode <br />
+   write ":wq", for save and exit <br />
+</li>
 </ol>
 
