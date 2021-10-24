@@ -25,10 +25,12 @@ All Operation are done on EVE cli:
    ctrl+o, answer yes, Enter key <br />
    ctrl+x, for exit
    <p>in vim:</p>
+   <code>
    hit "i" on your keyboard, for Insert mode <br/>
    ctrl + shift + v, for past <br/>
    hit "ESC" on your keyboard, To exit VISUAL mode <br />
    write ":wq", for save and exit <br />
+   </code>
 </li>
 <li> </li>
 </ol>
