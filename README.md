@@ -21,8 +21,8 @@ All Operation are done on EVE cli:
 </li>   
 <li>File opens and copy python script I pushed in this repo </li>
    <p></p>
-<ul>
-    <li>Save keygen file with key combos:</li>
+<li>Save keygen file with key combos:
+  	<ul>
     <li>in nano Editor:
         <ul>
             <li>ctrl+o, answer yes, Enter key </li>
@@ -36,6 +36,7 @@ All Operation are done on EVE cli:
           	<li>write ":wq", for save and exit </li>
         </ul>
 </ul>
+</li>
    <p></p>
 <li> fix permissions for new created script file:
    <p><code>chmod + x ioukeygen.py</code></p>
