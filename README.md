@@ -30,7 +30,7 @@ All Operation are done on EVE cli:
    hit "ESC" on your keyboard, To exit VISUAL mode <br />
    write ":wq", for save and exit <br />
 </li>
-   <li></li>
+   <p></p>
 <li> fix permissions for new created script file:
    <p><code>chmod + x ioukeygen.py</code></p>
 </li>
