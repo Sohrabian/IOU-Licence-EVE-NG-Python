@@ -11,7 +11,9 @@ All Operation are done on EVE cli:
 <li>McHale</li>
 <li>Verify if your internet is ok ping www.google.com, if success do next:</li>
 <li>Install nano/vim editor</li>
-  <p><code>apt-get update</code></p>
-  <p><code>apt-get install vim nano</code></p>
+  <li>
+     <p><code>apt-get update</code></p>
+     <p><code>apt-get install vim nano</code></p>
+  </li>
 </ol>
 
