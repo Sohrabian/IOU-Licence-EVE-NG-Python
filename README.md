@@ -15,5 +15,7 @@ All Operation are done on EVE cli:
    <code>apt-get install vim nano</code>
 <li>Go to location:</li>
    <code>cd /opt/unetlab/addons/iol/bin/</code>
+<li>Create iou keygen file</li>
+   <code>vim ioukeygen.py</code>
 </ol>
 
