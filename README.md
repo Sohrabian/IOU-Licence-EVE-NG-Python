@@ -17,5 +17,6 @@ All Operation are done on EVE cli:
    <code>cd /opt/unetlab/addons/iol/bin/</code>
 <li>Create iou keygen file</li>
    <code>vim ioukeygen.py</code>
+<li>File opens and copy python script I pushed in this repo </li>
 </ol>
 
