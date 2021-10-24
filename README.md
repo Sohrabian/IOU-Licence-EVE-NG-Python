@@ -21,16 +21,21 @@ All Operation are done on EVE cli:
 </li>   
 <li>File opens and copy python script I pushed in this repo </li>
    <p></p>
-<li>Save keygen file with key combos:
-   <p>in nano: </p>
-   ctrl+o, answer yes, Enter key <br />
-   ctrl+x, for exit
-   <p>in vim:</p>
-   hit "i" on your keyboard, for Insert mode <br/>
-   ctrl + shift + v, for past <br/>
-   hit "ESC" on your keyboard, To exit VISUAL mode <br />
-   write ":wq", for save and exit <br />
-</li>
+<ul>
+    <li>Save keygen file with key combos:</li>
+    <li>in nano Editor:
+        <ul>
+            <li>ctrl+o, answer yes, Enter key </li>
+            <li>ctrl+x, for exit</li>
+        </ul>
+    </li>
+    <li>in vim Editor:</li>
+  		<ul>
+            <li>chit "i" on your keyboard, for Insert mode  </li>
+            <li>hit "ESC" on your keyboard, To exit VISUAL mode</li>
+          	<li>write ":wq", for save and exit </li>
+        </ul>
+</ul>
    <p></p>
 <li> fix permissions for new created script file:
    <p><code>chmod + x ioukeygen.py</code></p>
