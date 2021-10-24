@@ -12,5 +12,6 @@ All Operation are done on EVE cli:
 <li>Verify if your internet is ok ping www.google.com, if success do next:</li>
 <li>Install nano/vim editor</li>
 </ol>
-
+'apt-get update'
+'apt-get install vim nano'
 
